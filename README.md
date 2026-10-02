@@ -89,7 +89,7 @@ direction to the applied force components.
 This confirms that force equilibrium is satisfied and that the vector load
 has been applied correctly.
 
-![Force Reaction](Results/Force_Reaction.png)
+![Force Reaction](Results/Force_Reaction.jpg)
 
 ---
 
@@ -104,7 +104,7 @@ The total deformation result obtained from ANSYS was:
 The maximum deformation occurs at the free end of the horizontal leg,
 while the minimum deformation occurs at the fixed support.
 
-![Total Deformation](Results/Total_Deformation.png)
+![Total Deformation](Results/Total_Deformation.jpg)
 
 The bracket undergoes combined axial stretching and bending.
 
@@ -126,7 +126,7 @@ region was approximately:
 
 **7.55 × 10⁷ Pa**
 
-![Equivalent Stress](Results/Equivalent_Stress.png)
+![Equivalent Stress](Results/Equivalent_Stress.jpg)
 
 The high stress at the inner fillet is associated with the actual load
 transfer and geometric stress concentration at the curved junction of the
@@ -163,7 +163,7 @@ The high stress at the sharp fixed-support corners is therefore considered a
 numerical artifact caused by the idealized fixed boundary condition rather
 than a direct representation of real material behavior.
 
-![Stress Singularity](Results/Stress_Singularity.png)
+![Stress Singularity](Results/Stress_Singularity.jpg)
 
 ---
 
